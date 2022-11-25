@@ -5789,6 +5789,19 @@
       }
     ]
   },
+  "changsha.gov.cn": {
+    "_name": "湖南省人民政府",
+    "wlwz": [
+      {
+        "title": "市长信箱",
+        "docs": "https://docs.rsshub.app/government.html#hu-nan-sheng-ren-min-zheng-fu",
+        "source": [
+          "/webapp/cs2020/email/*"
+        ],
+        "target": "/gov/hunan/changsha/major-email"
+      }
+    ]
+  },
   "cmse.gov.cn": {
     "_name": "中国载人航天",
     "www": [
@@ -11328,6 +11341,19 @@
       }
     ]
   },
+  "nautil.us": {
+    "_name": "Nautilus",
+    ".": [
+      {
+        "title": "Topics",
+        "docs": "https://docs.rsshub.app/en/new-media.html#nautilus",
+        "source": [
+          "/topics/:tid"
+        ],
+        "target": "/nautil/topic/:tid"
+      }
+    ]
+  },
   "nbd.com.cn": {
     "_name": "每经网",
     ".": [
@@ -15683,6 +15709,18 @@
           "/"
         ],
         "target": "/tingshuitz/nanjing"
+      }
+    ]
+  },
+  "supplywater.com": {
+    "_name": "停水通知",
+    "www": [
+      {
+        "title": "长沙市",
+        "docs": "https://docs.rsshub.app/forecast.html#ting-shui-tong-zhi",
+        "source": [
+          "/*"
+        ]
       }
     ]
   },

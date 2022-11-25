@@ -1610,6 +1610,9 @@
     "/gov/huizhou/zwgk/:category?": [
         "Fatpandac"
     ],
+    "/gov/hunan/changsha/major-email": [
+        "shansing"
+    ],
     "/gov/shaanxi/kjt/:id?": [
         "nczitzk"
     ],
@@ -2655,6 +2658,9 @@
     ],
     "/nature/siteindex": [
         "TonyRL"
+    ],
+    "/nautil/topic/:tid": [
+        "emdoe"
     ],
     "/nbd/daily": [
         "MeXunco"
@@ -3847,6 +3853,9 @@
     "/timednews/news/:type?": [
         "linbuxiao"
     ],
+    "/tingshuitz/changsha/:channelId?": [
+        "shansing"
+    ],
     "/tingshuitz/dalian": [
         "DIYgod"
     ],
@@ -4924,7 +4933,6 @@
     "/coolbuy/newest": [],
     "/miniflux/subscription/:parameters?": [],
     "/miniflux/:feeds/:parameters?": [],
-    "/nautilus/topic/:tid": [],
     "/anigamer/new_anime": [],
     "/anigamer/anime/:sn": [],
     "/apkpure/versions/:region/:pkg": [],
