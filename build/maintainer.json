@@ -831,6 +831,9 @@
     "/cuc/yz": [
         "niuyi1017"
     ],
+    "/curius/links/:name": [
+        "Ovler-Young"
+    ],
     "/cw/master/:channel": [
         "TonyRL"
     ],
@@ -2376,6 +2379,9 @@
     ],
     "/kyodonews/:language?/:keyword?": [
         "Rongronggg9"
+    ],
+    "/lang/live/room/:id": [
+        "MittWillson"
     ],
     "/lanqiao/author/:uid": [
         "huhuhang"
@@ -4182,6 +4188,28 @@
     "/wechat/wxnmh/:id": [
         "laampui"
     ],
+    "/weibo/keyword/:keyword/:routeParams?": [
+        "DIYgod"
+    ],
+    "/weibo/oasis/user/:userid": [
+        "kt286"
+    ],
+    "/weibo/search/hot": [
+        "xyqfer"
+    ],
+    "/weibo/super_index/:id/:type?/:routeParams?": [
+        "zengxs"
+    ],
+    "/weibo/timeline/:uid/:feature?/:routeParams?": [
+        "zytomorrow",
+        "DIYgod ",
+        "Rongronggg9"
+    ],
+    "/weibo/user/:uid/:routeParams?": [
+        "DIYgod",
+        "iplusx",
+        "Rongronggg9"
+    ],
     "/wenku8/:category?": [
         "Fatpandac"
     ],
@@ -4594,11 +4622,6 @@
     ],
     "/1draw": [],
     "/benedictevans": [],
-    "/weibo/user/:uid/:routeParams?": [],
-    "/weibo/keyword/:keyword/:routeParams?": [],
-    "/weibo/search/hot": [],
-    "/weibo/super_index/:id/:type?/:routeParams?": [],
-    "/weibo/oasis/user/:userid": [],
     "/ncm/playlist/:id": [],
     "/ncm/user/playlist/:uid": [],
     "/ncm/artist/:id": [],
@@ -4632,8 +4655,6 @@
     "/dribbble/user/:name": [],
     "/dribbble/keyword/:keyword": [],
     "/huya/live/:id": [],
-    "/kingkong/room/:id": [],
-    "/langlive/room/:id": [],
     "/showroom/room/:id": [],
     "/v2ex/topics/:type": [],
     "/v2ex/post/:postid": [],
@@ -5258,7 +5279,6 @@
     "/cug/gcxy/:type?": [],
     "/haimaoba/:id?": [],
     "/pgyer/:app?": [],
-    "/weibo/timeline/:uid/:feature?/:routeParams?": [],
     "/watchface/:watch_type?/:list_type?": [],
     "/cnu/selected": [],
     "/cnu/discovery/:type?/:category?": [],
